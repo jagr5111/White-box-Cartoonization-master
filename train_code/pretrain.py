@@ -7,7 +7,7 @@ by Xinrui Wang and Jinze yu
 
 
 import tensorflow as tf
-import tensorflow.contrib.slim as slim
+import slim
 
 import utils
 import os
